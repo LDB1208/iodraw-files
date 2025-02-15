@@ -28,8 +28,8 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pR4IpLiY02VgmVCjbNyQ-2" value="命题1.5：两平行直线被第三条直线所截，则同旁内角互补，同位角相等，内错角相等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="pR4IpLiY02VgmVCjbNyQ-2" value="命题1.5：两平行直线被第三条直线所截，则同旁内角互补，同位角相等，内错角相等" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
