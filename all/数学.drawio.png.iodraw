@@ -43,7 +43,7 @@
         <mxCell id="pR4IpLiY02VgmVCjbNyQ-4" value="命题1.6：过直线外一点，有一条且仅有一条直线与该直线平行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pR4IpLiY02VgmVCjbNyQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pR4IpLiY02VgmVCjbNyQ-6" value="ming&#39;ti" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pR4IpLiY02VgmVCjbNyQ-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="H4Bf4L-nWUJzpmqvx1Hu-5" target="pR4IpLiY02VgmVCjbNyQ-4">
@@ -57,7 +57,7 @@
             <mxPoint x="390" y="350" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="430" />
+              <mxPoint x="220" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
