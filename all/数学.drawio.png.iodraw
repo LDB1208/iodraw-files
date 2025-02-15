@@ -11,7 +11,7 @@
           <mxGeometry x="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4Bf4L-nWUJzpmqvx1Hu-3" value="命题1.3：三角形的外角等于两内角之和" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry y="80" width="120" height="60" as="geometry" />
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4Bf4L-nWUJzpmqvx1Hu-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" parent="1" source="H4Bf4L-nWUJzpmqvx1Hu-1" target="H4Bf4L-nWUJzpmqvx1Hu-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H4Bf4L-nWUJzpmqvx1Hu-5" value="命题1.4：两直线被第三条直线所截，若有一对同旁内角互补，或一对同位角相等，或一对内错角相等，则两直线平行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry y="160" width="120" height="150" as="geometry" />
+          <mxGeometry y="200" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pR4IpLiY02VgmVCjbNyQ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="H4Bf4L-nWUJzpmqvx1Hu-3" target="H4Bf4L-nWUJzpmqvx1Hu-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pR4IpLiY02VgmVCjbNyQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
